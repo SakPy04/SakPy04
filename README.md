@@ -88,19 +88,15 @@ Experience building RAG architectures, agentic AI workflows, distributed data pi
 
 <div align="center">
 
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SakPy04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakPy04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=SakPy04&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SakPy04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakPy04&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
