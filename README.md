@@ -96,7 +96,7 @@ Experience building RAG architectures, agentic AI workflows, distributed data pi
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SakPy04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
